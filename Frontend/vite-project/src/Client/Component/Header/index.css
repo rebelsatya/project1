@@ -1,0 +1,46 @@
+.bg-card3 {
+  background-color: #272727;
+  height: 80px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: absolute; /* Positioning it on top */
+  top: 0; /* Makes sure it is at the top */
+  left: 0;
+  z-index: 10; /* Ensures it's on top of the other elements */
+  padding-left: 70px;
+  padding-right: 70px;
+  box-sizing: border-box;
+}
+  .img {
+    height: 35px;
+    width: 110px;
+  }
+  .bg-card4 {
+    display: flex;
+    width: 110px;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+  }
+  .heading1 {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 550;
+  }
+  .btn {
+    background-color: #6366f1;
+    border-radius: 4px;
+    height: 35px;
+    width: 140px;
+    border-width: 0px;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center
+  }
+  .link-job {
+    text-decoration: none;
+  }
+  

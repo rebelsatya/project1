@@ -1,0 +1,45 @@
+.bg-card-notfound {
+  background-color: #121212; /* Dark background color */
+  height: 100vh; /* Full viewport height */
+  width: 100%; /* Full width */
+  display: flex; /* Flexbox layout */
+  flex-direction: column; /* Stacks items vertically */
+  justify-content: center; /* Centers content vertically */
+  align-items: center; /* Centers content horizontally */
+  position: absolute; /* Ensures it covers the entire screen */
+  top: 0;
+  left: 0;
+}
+
+.img-notfound {
+  height: 300px; /* Height of the image */
+  width: 300px; /* Width of the image */
+  object-fit: contain; /* Ensures the image scales while maintaining aspect ratio */
+}
+
+.heading-notfound {
+  color: #ffffff; /* White text color */
+  font-size: 25px; /* Font size */
+  text-align: center; /* Centers the heading text */
+  margin-top: 20px; /* Adds margin above the heading */
+}
+
+.para-notfound {
+  color: #ffffff; /* White text color */
+  font-size: 16px; /* Font size */
+  text-align: center; /* Centers the paragraph text */
+  margin-top: 10px; /* Adds margin above the paragraph */
+}
+
+  .img-notfound {
+    height: 300px;
+    width: 300px;
+  }
+  .heading-notfound {
+    color: #ffffff;
+    font-size: 25px;
+  }
+  .para-notfound {
+    color: #ffffff;
+  }
+  

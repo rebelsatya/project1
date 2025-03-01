@@ -1,0 +1,35 @@
+.list {
+    list-style-type: none;
+  
+    padding-left: 0px;
+  }
+  .list-type {
+    padding-bottom: 10px;
+    display: flex;
+    align-items: flex-start;
+    gap: 10px; /* Adds space between list items */
+    position: relative;
+  }
+  .input {
+    height: 18px;
+    width: 18px;
+    margin-right: 15px;
+  }
+  .bg-container10 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: relative; /* Allows further positioning */
+    z-index: 2;
+  }
+  .horizontal-line {
+    margin-bottom: 30px;
+  }
+  .heading-card {
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: 500;
+  }
+  .bg-container-group {
+    margin-top: 35px;
+  }
+  

@@ -1,0 +1,15 @@
+.img-SkillIcon {
+    height: 90px;
+    width: 90px;
+    margin-right: 20px;
+  }
+  .bg-container-skill {
+    display: flex;
+  
+    align-items: center;
+  
+    margin: 10px;
+  
+    width: 350px;
+  }
+  

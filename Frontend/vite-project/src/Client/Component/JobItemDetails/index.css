@@ -1,0 +1,146 @@
+.bg-container2 {
+  background-color: #000000;
+  width: 100%;
+ /* Full viewport height */
+  position: absolute; /* Position it relative to the closest positioned ancestor or the viewport */
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #ffffff;
+  
+}
+
+  .bg-container4 {
+    margin: 70px;
+  }
+  .bg-container3 {
+    background-color: #272727;
+    border-radius: 10px;
+    padding: 35px;
+    margin-top: 70px;
+    text-align: start;
+  
+  }
+  .bg-jobcard1 {
+    display: flex;
+    
+   
+  }
+  .bg-card-JobCard {
+    background-color: #272727;
+  
+    padding: 30px;
+  
+    width: 1200px;
+  
+    margin-left: 35px;
+    margin-top: 35px;
+    border-radius: 20px;
+  }
+  .heading-job {
+    color: #ffffff;
+  }
+  .img-company-logo {
+    height: 80px;
+    width: 80px;
+  }
+  .bg-jobcard1 {
+    display: flex;
+    align-items: center;
+  }
+  .star-icon {
+    color: #fbbf24;
+  
+    margin-right: 5px;
+  }
+  .bg-jobcard2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  
+    padding-top: 18px;
+  }
+  .spacing {
+    margin-right: 8px;
+  }
+  .para2 {
+    padding-top: 30px;
+    font-size: 25px;
+  }
+  .bg-jobcard3 {
+    margin-left: 10px;
+    height: 80px;
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .heading-jobcard {
+    font-size: 30px;
+    font-weight: 600;
+    padding-bottom: 20px;
+    padding-top: 40px;
+    text-align: start;
+  }
+  .horizontal-line2 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  
+  .bg-link {
+    display: flex;
+    align-items: center;
+  }
+  .access-link-card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .visit-link {
+    color: #fff;
+    text-decoration: none;
+    color: #6366f1;
+    font-size: 20px;
+    font-family: 'roboto';
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+  }
+  .img-icon {
+    height: 60px;
+    width: 40px;
+  }
+  .skill-carda {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  .skill-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    list-style-type: none;
+    padding-left: 0px;
+    margin-top: 20px;
+  }
+  .img-job-description {
+    height: 250px;
+    width: 25%;
+    border-radius: 6px;
+  }
+  .bg-card-job-description {
+    display: flex;
+    justify-content: space-between;
+  }
+  .para-job-description {
+    font-size: 25px;
+    width: 70%;
+  }
+  .bg-container-similar {
+    list-style-type: none;
+    display: flex;
+    padding: 0px;
+  }
+  

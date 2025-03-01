@@ -1,0 +1,68 @@
+.bg-card-JobCard45 {
+    background-color: #272727;
+
+    padding: 30px;
+  
+    width:750px;
+  position: absolute;
+    margin-left: 35px;
+    margin-top: 35px;
+    border-radius: 00px;
+  }
+  .heading-job {
+    color: #ffffff;
+  }
+  .img-company-logo {
+    height: 80px;
+    width: 80px;
+  }
+  .bg-jobcard1 {
+    display: flex;
+    align-items: center;
+  }
+  .star-icon {
+    color: #fbbf24;
+  
+    margin-right: 5px;
+  }
+  .bg-jobcard2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  
+    padding-top: 18px;
+  }
+  .spacing {
+    margin-right: 8px;
+  }
+  .para1 {
+    padding-right: 10px;
+  }
+  .bg-jobcard3 {
+    margin-left: 10px;
+    height: 80px;
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .heading-jobcard {
+    font-size: 20px;
+    font-weight: 500;
+    padding-bottom: 10px;
+  }
+  .horizontal-line2 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  .link-job {
+    text-decoration: none;
+    color: #ffffff;
+  }
+  .bg-card-JobCard12{
+    background-color: #272727;
+    padding: 30px;
+     width:83%;
+    margin-top: 35px;
+    border-radius: 20px;
+  }
